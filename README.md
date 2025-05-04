@@ -19,8 +19,3 @@ The **Naruto Character Battle Game** is a console-based application that lets us
 - C++ compiler (e.g., GCC, Visual Studio)
 - Basic knowledge of how to compile and run C++ programs.
 
-### Steps to Run the Project:
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/junaidsj/naruto-character-battle.git
-   cd naruto-character-battle
