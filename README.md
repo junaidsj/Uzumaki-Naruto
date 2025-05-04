@@ -1,4 +1,4 @@
-# 🌀 Naruto Character Battle Game
+# 🌀 Naruto Character Battle Game-
 
 ## 📌 Project Overview
 The **Naruto Character Battle Game** is a console-based application that lets users add Naruto characters, view their details, and battle them against each other. Each character has a randomly generated power level, and the battle results depend on the power comparison between characters.
